@@ -7,7 +7,7 @@ Inainte de a verifica codul exercitiului te incurajez sa incerci sa il rezolvi s
 Lista de exercitii:
 
 1. In ce zi a saptamanii este aniversarea ta peste n ani?
-n citit de la tastatura
+n citit de la tastatura, data nasterii citita de la tastatura
 
 2. Redenumiti toate fisierele dintr-un director folosind un nume generic.
 
