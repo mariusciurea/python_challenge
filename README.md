@@ -13,7 +13,7 @@
 1. In ce zi a saptamanii este aniversarea ta peste n ani?
 n citit de la tastatura, data nasterii citita de la tastatura
 
-  * Nume fisier: weekday_anniversary.py
+   * Nume fisier: weekday_anniversary.py
 
 ---
 
@@ -32,7 +32,7 @@ n citit de la tastatura, data nasterii citita de la tastatura
        fisiern = 'munte_2022_n.png'
        
     	  
-  * Nume fisier:
+   * Nume fisier:
 
 ---
 
@@ -52,6 +52,36 @@ Executati scriptul din terminal, dand ca argumente numele fisierelor si afisati 
 
 ---
 
+5. Salveaza intr-un fisier text/csv filmele de pe IMDB/Cinemagia cu nota mai mare de 8.
+
+	  
+   * Nume fisier:
+
+---
+
+6. Trimite un e-mail de fiecare data cand pornesti PC-ul cu detaliile despre vreme, din orasul in care te afli.
+Pentru a accesa detalii despre vreme poti sa faci un request la acest API/endpoint: [openweathermap - API](https://openweathermap.org/api)
+Pentru a trimite e-mail poti sa folosesti biblioteca smtplib
+Pentru a accesa orasul in care te afli poti face un request folosind [acest API](api.ipstack.com)
+
+	  
+   * Nume fisier:
+
+---
+
+
+# Proiecte portofoliu:
+
+---
+
+1. Realizeaza o aplicatie web care sa fie o invitatie la nuna. Pe pagina web vor aparea poze cu mirii, detalii despre locatie si un formular care
+trebuie completat de invitati pentru a confirma participarea la eveniment
+
+---
+
+2. Realizeaza un chat care faciliteaza conversatii intre una sau mai multe persoane. Poate fi o aplicatie web sau interfata grafica.
+
+---
 
 [Find me here](https://mariusciurea.github.io/links/)
 
