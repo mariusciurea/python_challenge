@@ -65,7 +65,7 @@ Pentru a trimite e-mail poti sa folosesti biblioteca smtplib
 Pentru a accesa orasul in care te afli poti face un request folosind [acest API](api.ipstack.com)
 
 	  
-   * Nume fisier:
+   * Nume fisier: weather_api.py
 
 ---
 
