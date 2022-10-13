@@ -83,5 +83,11 @@ trebuie completat de invitati pentru a confirma participarea la eveniment
 
 ---
 
+3. Realizeaza o aplicatie care sa permita conversia intre monedele RON, EUR, DOLAR, Lira Sterlina, Francul Elvetian, Leva Bulgareasca si Forinti Maghiari.
+Aplicatia poate avea o interfata grafica sau poate fi realizata web based. Aceasta trebuie sa permita introducerea unei sume in oricare dintre monedele 
+de mai sus si afisarea sumei echivalente in celelalte monede.
+
+---
+
 [Find me here](https://mariusciurea.github.io/links/)
 
